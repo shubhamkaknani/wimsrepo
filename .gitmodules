@@ -1,0 +1,3 @@
+[submodule "wimsrepo"]
+	path = wimsrepo
+	url = https://github.com/shubhamkaknani/wimsrepo1.git

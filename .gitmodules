@@ -1,3 +1,6 @@
 [submodule "wimsrepo"]
 	path = wimsrepo
 	url = https://github.com/shubhamkaknani/wimsrepo1.git
+[submodule "test"]
+	path = test
+	url = https://github.com/shubhamkaknani/test.git
